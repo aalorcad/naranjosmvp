@@ -11,4 +11,5 @@ public class UsuariosModel {
     private Integer rutUno;
     private Integer rutDos;
     private Integer rutTres;
+    private Integer rutCuatro;
 }
