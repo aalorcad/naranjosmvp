@@ -5,4 +5,5 @@ public class UsuariosModel {
     private String segNombre;
     private String apellido;
     private String segApellido;
+    private String nombreDos;
 }
