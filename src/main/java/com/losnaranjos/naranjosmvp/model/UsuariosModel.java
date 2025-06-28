@@ -9,5 +9,5 @@ public class UsuariosModel {
     private String nombreTres;
     private String nombreCuatro;
     private Integer rutUno;
-    
+    private Integer rutDos;
 }
