@@ -7,4 +7,6 @@ public class UsuariosModel {
     private String segApellido;
     private String nombreDos;
     private String nombreTres;
+    private String nombreCuatro;
+
 }
