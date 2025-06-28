@@ -10,4 +10,5 @@ public class UsuariosModel {
     private String nombreCuatro;
     private Integer rutUno;
     private Integer rutDos;
+    private Integer rutTres;
 }
