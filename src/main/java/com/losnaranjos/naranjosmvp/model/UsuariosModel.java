@@ -8,5 +8,6 @@ public class UsuariosModel {
     private String nombreDos;
     private String nombreTres;
     private String nombreCuatro;
-
+    private Integer rutUno;
+    
 }
